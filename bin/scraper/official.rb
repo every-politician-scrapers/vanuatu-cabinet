@@ -7,17 +7,23 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      tds[0].text.tidy.delete_prefix('Hon. ')
     end
 
     def position
-      noko.css('.position').text.tidy
+      tds[1].text.tidy.split(/ and (?=Minister)/)
+    end
+
+    private
+
+    def tds
+      noko.css('td')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('table.uk-table').first.xpath('.//tr[td]')
     end
   end
 end
