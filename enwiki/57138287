@@ -1,0 +1,55 @@
+{
+  "title": "Ishmael Kalsakau",
+  "pageID": 57138287,
+  "categories": [
+    "Living people",
+    "Members of the Parliament of Vanuatu",
+    "Opposition leaders",
+    "Place of birth missing (living people)",
+    "Union of Moderate Parties politicians",
+    "Vanuatuan lawyers",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alatoi Ishmael Kalsakau is the head of the Union of Moderate Parties in Vanuatu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Union of Moderate Parties"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vanuatu"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alatoi Ishmael Kalsakau"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.smh.com.au/politics/federal/vanuatu-s-potential-pm-sounds-the-alarm-on-chinese-intentions-20180414-p4z9m8.html",
+          "title": "Vanuatu's potential PM sounds the alarm on Chinese intentions",
+          "first": "David",
+          "last": "Wroe",
+          "newspaper": "The Sydney Morning Herald",
+          "date": "April 14, 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Seule Simeon",
+  "pageID": 66690307,
+  "categories": [
+    "Education ministers",
+    "Vanuatuan politicians",
+    "Speakers of the Parliament of Vanuatu",
+    "Reunification Movement for Change politicians",
+    "Union of Moderate Parties politicians",
+    "Living people",
+    "1970 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Seoule Simeon (also spelled Seule Simeon; born October 10, 1970) is a Vanuatuan politician.",
+              "links": [
+                {
+                  "text": "Vanuatuan",
+                  "type": "internal",
+                  "page": "Vanuatu"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Seoule Simeon",
+                  "Seule Simeon"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Vanuatuan politician",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
