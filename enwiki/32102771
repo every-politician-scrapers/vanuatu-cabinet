@@ -280,38 +280,6 @@
             "text": "Saimon in 2018"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://vanuatuindependent.com/2017/06/17/vanuatu-president-dies/",
-          "title": "Vanuatu President dies",
-          "publisher": "The Vanuatu Independent",
-          "date": "17 June 2017",
-          "access-date": "17 June 2017",
-          "archive-url": "https://web.archive.org/web/20170911024616/https://vanuatuindependent.com/2017/06/17/vanuatu-president-dies/",
-          "archive-date": "11 September 2017",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

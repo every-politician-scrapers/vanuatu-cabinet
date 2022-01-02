@@ -164,32 +164,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.parliament.gov.vu/Members/10th%20Legislature%20Biography/Hon.%20Bob%20Loughman.html",
-          "title": "Hon. Bob Loughman",
-          "archive-url": "https://web.archive.org/web/20191130125719/https://parliament.gov.vu/index.php/members/76-hon-bob-loughman",
-          "date": "June 18, 2019",
-          "website": "Parliament of the Republic of Vanuatu",
-          "archive-date": "2019-11-30",
-          "last1": "Isno",
-          "first1": "Vira",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
