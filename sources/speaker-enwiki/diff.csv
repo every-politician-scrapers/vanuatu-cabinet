@@ -1,31 +1,33 @@
 @@,itemlabel,item,startdate,enddate
 +++,Fred Timakata,Q878543,1979,1980
+---,Frederick Karlomuana Timakata,Q878543,1979-01-01,1980-01-01
 +++,Maxime Carlot Korman,Q933149,1980-07,1983-11
 ---,Maxime Carlot Korman,Q933149,1980-07-01,1983-11-01
 +++,Fred Timakata,Q878543,1983-11,1987-11
-+++,Onneyn Tahi,Q888834,1987-12,1991-06
+---,Frederick Karlomuana Timakata,Q878543,1983-11-01,1987-11-01
+->,Onneyn Tahi,Q888834,1987-12-01->1987-12,1991-06-01->1991-06
 +++,Tele Taun,,1991-06,1991-08
 +++,Vincent Boulekone,,1991-08,1991-12
-+++,Alfred Maseng,Q888602,1991-12,1995-11
+->,Alfred Maseng,Q888602,1991-12-01->1991-12,1995-11-01->1995-11
 +++,Maxime Carlot Korman,Q933149,1995-12,1996-02
 ---,Maxime Carlot Korman,Q933149,1995-12-01,1996-02-01
-+++,Edward Natapei,Q379550,1996-02,1999-11
+->,Edward Natapei,Q379550,1996-02-01->1996-02,1999-11-01->1999-11
 +++,Paul Ren Tari,,1999-11,2001-05
-+++,Donald Kalpokas,Q1096208,2001-05,2002-05
+->,Donald Kalpokas,Q1096208,2001-05-01->2001-05,2002-05-01->2002-05
 +++,Henry Taga,,2002-06,2003-12
-+++,Roger Abiut,Q888859,2003-12,2004-07
-+++,Josias Moli,Q888262,2004-07,2004-12
+->,Roger Abiut,Q888859,2003-12-01->2003-12,2004-07-01->2004-07
+->,Josias Moli,Q888262,2004-07-01->2004-07,2004-12-01->2004-12
 +++,Sam Dan Avock,,2004-12,2008-09
 +++,George Wells,Q5546148,2008-09,2009-06
+---,George Wells,Q5546148,2008-09-01,2009-06-01
 +++,Maxime Carlot Korman,Q933149,2009-06,2010-01
 ---,Maxime Carlot Korman,Q933149,2009-06-01,2010-01-01
 +++,George Wells,Q5546148,2010-01,2010-12
+---,George Wells,Q5546148,2010-01-01,2010-12-01
 +++,Maxime Carlot Korman,Q933149,2010-12,2011-09
 ---,Maxime Carlot Korman,Q933149,2010-12-01,2011-09-01
 +++,Dunstan Hilton,,2011-09,2012-09
 +++,George Wells,Q5546148,2012-11,2013-04
-+++,Philip Boedoro,Q18214160,2013-04,2015-06
+---,George Wells,Q5546148,2012-11-01,2013-04-01
+->,Philip Boedoro,Q18214160,2013-04-01->2013-04,2015-06-01->2015-06
 ->,Marcellino Pipite,Q6756389,2015-06-16->2015-06,2015-10-16->2015-10
-+++,Esmon Saimon,Q5398549,2016-02-11,2019-09-06
-+++,Seoule Simeon,Q55863225,2019-09-06,2020-04-20
-+++,Gracia Shadrack,Q106031079,2020-04-20,2021-06-15
