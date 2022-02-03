@@ -68,6 +68,9 @@
               }
             ]
           },
+          "image": {
+            "text": "Vanuatu Govt video call.jpg"
+          },
           "office": {
             "text": "Prime Minister of Vanuatu",
             "links": [
@@ -83,6 +86,15 @@
               {
                 "type": "internal",
                 "page": "Tallis Obed Moses"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Ishmael Kalsakau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ishmael Kalsakau"
               }
             ]
           },
