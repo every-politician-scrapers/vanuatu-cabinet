@@ -1,182 +1,19 @@
 {
-  "title": "Bob Loughman",
-  "pageID": 42055626,
-  "categories": [
-    "1961 births",
-    "Prime Ministers of Vanuatu",
-    "Members of the Parliament of Vanuatu",
-    "Vanua'aku Pati politicians",
-    "Government ministers of Vanuatu",
-    "Living people",
-    "People from Tafea Province"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bob Loughman Weibur (born 8 March 1961) is a Vanuatuan politician and the incumbent Prime Minister of the Republic of Vanuatu as of 20 April 2020.",
-              "links": [
-                {
-                  "text": "Vanuatuan",
-                  "type": "internal",
-                  "page": "Vanuatu"
-                },
-                {
-                  "text": "Prime Minister of the Republic of Vanuatu",
-                  "type": "internal",
-                  "page": "Prime Minister of Vanuatu"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bob Loughman Weibur"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Vanuatuan politician",
-          "template": "short description"
-        },
-        {
-          "year": "1961",
-          "month": "3",
-          "day": "8",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Bob Loughman"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Vanuatu Govt video call.jpg"
-          },
-          "office": {
-            "text": "Prime Minister of Vanuatu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Vanuatu"
-              }
-            ]
-          },
-          "president": {
-            "text": "Tallis Obed Moses",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tallis Obed Moses"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Ishmael Kalsakau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ishmael Kalsakau"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 April 2020"
-          },
-          "predecessor": {
-            "text": "Charlot Salwai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charlot Salwai"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Education"
-          },
-          "primeminister2": {
-            "text": "Moana Carcasses Kalosil\nJoe Natuman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moana Carcasses Kalosil"
-              },
-              {
-                "type": "internal",
-                "page": "Joe Natuman"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "23 March 2013"
-          },
-          "term_end2": {
-            "text": "11 June 2015"
-          },
-          "predecessor2": {
-            "text": "Steven Kalsakau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Steven Kalsakau"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Alfred Carlot",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alfred Carlot"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 8, 1961"
-          },
-          "birth_place": {
-            "text": "Tanna Island, New Hebrides (now Vanuatu)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tanna Island"
-              },
-              {
-                "type": "internal",
-                "page": "New Hebrides"
-              }
-            ]
-          },
-          "party": {
-            "text": "Vanua'aku Pati",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vanua'aku Pati"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Bob Loughman",
+  "honorific-suffix": "MP",
+  "image": "Vanuatu Govt video call.jpg",
+  "office": "Prime Minister of Vanuatu",
+  "president": "Tallis Obed Moses",
+  "deputy": "Ishmael Kalsakau",
+  "term_start": "20 April 2020",
+  "predecessor": "Charlot Salwai",
+  "office2": "Minister of Education",
+  "primeminister2": "Moana Carcasses Kalosil\nJoe Natuman",
+  "term_start2": "23 March 2013",
+  "term_end2": "11 June 2015",
+  "predecessor2": "Steven Kalsakau",
+  "successor2": "Alfred Carlot",
+  "birth_date": "March 8, 1961",
+  "birth_place": "Tanna Island, New Hebrides (now Vanuatu)",
+  "party": "Vanua'aku Pati"
 }
