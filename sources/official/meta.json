@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Vanuatu",
+      "id": "Q686"
+    },
+    "cabinet": {
+      "id": "Q97189294",
+      "start": "2020-04-20",
+      "parent": "Q1565931"
+    },
+    "source": {
+        "url":   "https://parliament.gov.vu/index.php/memebers/members-of-12th-legislature",
+        "title": "Members of the 12th Legislature",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/vanuatu-cabinet"
+}
