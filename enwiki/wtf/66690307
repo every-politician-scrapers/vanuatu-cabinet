@@ -1,0 +1,193 @@
+{
+  "title": "Seule Simeon",
+  "pageID": 66690307,
+  "categories": [
+    "Education ministers",
+    "Vanuatuan politicians",
+    "Speakers of the Parliament of Vanuatu",
+    "Reunification Movement for Change politicians",
+    "Union of Moderate Parties politicians",
+    "Living people",
+    "1970 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Seoule Simeon (also spelled Seule Simeon; born October 10, 1970) is a Vanuatuan politician.",
+              "links": [
+                {
+                  "text": "Vanuatuan",
+                  "type": "internal",
+                  "page": "Vanuatu"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Seoule Simeon",
+                  "Seule Simeon"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Vanuatuan politician",
+          "template": "short description"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A member of Vanuatu's francophone minority, Simeon went to Lycée Louis-Antoine de Bougainville, but did not seek higher education.",
+              "links": [
+                {
+                  "text": "Louis-Antoine de Bougainville",
+                  "type": "internal",
+                  "page": "Louis Antoine de Bougainville"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2016 general election, Simeon was elected Member of Parliament for Épi Island district as a member of the Union of Moderate Parties (the historically conservative party of francophones).",
+              "links": [
+                {
+                  "text": "2016 general election",
+                  "type": "internal",
+                  "page": "2016 Vanuatuan general election"
+                },
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Vanuatu"
+                },
+                {
+                  "text": "Épi Island district",
+                  "type": "internal",
+                  "page": "Epi Island"
+                },
+                {
+                  "type": "internal",
+                  "page": "Union of Moderate Parties"
+                }
+              ]
+            },
+            {
+              "text": "On November 26 during a cabinet reshuffle, Prime Minister Charlot Salwai named Simeon Minister of Youth and Sports.",
+              "links": [
+                {
+                  "text": "cabinet reshuffle",
+                  "type": "internal",
+                  "page": "cabinet reshuffle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Charlot Salwai"
+                }
+              ]
+            },
+            {
+              "text": "He remained in this role until September 6, 2019, when he was elected Speaker of the Parliament."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Simeon was re-elected in the 2020 general election, this time as a member of the Reunification Movement for Change.",
+              "links": [
+                {
+                  "text": "2020 general election",
+                  "type": "internal",
+                  "page": "2020 Vanuatuan general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Reunification Movement for Change"
+                }
+              ]
+            },
+            {
+              "text": "He was named Minister of Education in the cabinet of Prime Minister Bob Loughman.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bob Loughman"
+                }
+              ]
+            },
+            {
+              "text": "In November 2020, Simeon resigned his position in the RMC to sit among the opposition benches."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-04-21",
+          "title": "Vanuatu's new PM appoints his new Cabinet",
+          "url": "https://www.rnz.co.nz/international/pacific-news/414711/vanuatu-s-new-pm-appoints-his-new-cabinet",
+          "access-date": "2021-02-09",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministry of Education and Training - Leadership",
+          "url": "https://moet.gov.vu/index.php?id=leadership",
+          "access-date": "2021-02-09",
+          "website": "moet.gov.vu",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Malapa",
+          "first": "Terence",
+          "title": "Two RMC Ministers Resign from Political Party",
+          "url": "https://dailypost.vu/news/two-rmc-ministers-resign-from-political-party/article_c420b666-22da-11eb-8aae-7725a0153c13.html",
+          "access-date": "2021-02-09",
+          "website": "Vanuatu Daily Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hon. Seoule Simeon",
+          "url": "https://parliament.gov.vu/index.php/members/185-honseoulesimeon",
+          "access-date": "2021-02-09",
+          "website": "parliament.gov.vu",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "vanuatu-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "title": "Esmon Saimon",
+  "pageID": 32102771,
+  "categories": [
+    "1955 births",
+    "Government ministers of Vanuatu",
+    "Living people",
+    "Melanesian Progressive Party politicians",
+    "Members of the Parliament of Vanuatu",
+    "People from Malampa Province",
+    "Presidents of Vanuatu",
+    "Speakers of the Parliament of Vanuatu"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Esmon Saimon, also referred to as Esmon Sae (born 28 October 1955),  is a Vanuatuan politician.",
+              "links": [
+                {
+                  "text": "Vanuatuan",
+                  "type": "internal",
+                  "page": "Vanuatu"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Esmon Saimon",
+                  "Esmon Sae"
+                ]
+              }
+            },
+            {
+              "text": "Since 11 February 2016 he has been speaker of the Parliament of Vanuatu, and from 17 June 2017 to 6 July 2017 served as the acting president of Vanuatu upon the death of Baldwin Lonsdale.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Vanuatu"
+                },
+                {
+                  "text": "president of Vanuatu",
+                  "type": "internal",
+                  "page": "president of Vanuatu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Baldwin Lonsdale"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "df": "y",
+          "year": "1955",
+          "month": "10",
+          "day": "28",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Esmon Saimon"
+          },
+          "office": {
+            "text": "Speaker of the Parliament",
+            "links": [
+              {
+                "text": "Speaker of the Parliament",
+                "type": "internal",
+                "page": "List of Speakers of the Parliament of Vanuatu"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 February 2016"
+          },
+          "term_end": {
+            "text": "6 September 2019"
+          },
+          "predecessor": {
+            "text": "Marcellino Pipite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marcellino Pipite"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Seoule Simeon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seoule Simeon"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Acting President of Vanuatu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Vanuatu"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Charlot Salwai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charlot Salwai"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "17 June 2017"
+          },
+          "term_end1": {
+            "text": "6 July 2017"
+          },
+          "predecessor1": {
+            "text": "Baldwin Lonsdale",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baldwin Lonsdale"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Tallis Obed Moses",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tallis Obed Moses"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Infrastructure and Public Utilities"
+          },
+          "primeminister2": {
+            "text": "Moana Carcasses Kalosil\nJoe Natuman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moana Carcasses Kalosil"
+              },
+              {
+                "type": "internal",
+                "page": "Joe Natuman"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 March 2013"
+          },
+          "term_end2": {
+            "text": "11 June 2015"
+          },
+          "predecessor2": {
+            "text": "Tony Nari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Nari"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Tony Nari"
+          },
+          "office3": {
+            "text": "Minister for Cooperatives and Ni-Vanuatu Business Development"
+          },
+          "primeminister3": {
+            "text": "Sato Kilman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sato Kilman"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "13 May 2011"
+          },
+          "term_end3": {
+            "text": "17 May 2011"
+          },
+          "predecessor3": {
+            "text": "Paul Telukluk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Telukluk"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Don Ken",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Don Ken"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Sato Kilman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sato Kilman"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "18 February 2011"
+          },
+          "term_end4": {
+            "text": "24 April 2011"
+          },
+          "predecessor4": {
+            "text": "Ralph Regenvanu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ralph Regenvanu"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Paul Telukluk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Telukluk"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 28, 1955"
+          },
+          "birth_place": {
+            "text": "Malakula, New Hebrides (now Vanuatu)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malakula"
+              },
+              {
+                "type": "internal",
+                "page": "New Hebrides"
+              }
+            ]
+          },
+          "party": {
+            "text": "Melanesian Progressive Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Melanesian Progressive Party"
+              }
+            ]
+          },
+          "image": {
+            "text": "Esmon Saimon profile.svg"
+          },
+          "caption": {
+            "text": "Saimon in 2018"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://vanuatuindependent.com/2017/06/17/vanuatu-president-dies/",
+          "title": "Vanuatu President dies",
+          "publisher": "The Vanuatu Independent",
+          "date": "17 June 2017",
+          "access-date": "17 June 2017",
+          "archive-url": "https://web.archive.org/web/20170911024616/https://vanuatuindependent.com/2017/06/17/vanuatu-president-dies/",
+          "archive-date": "11 September 2017",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He worked first as Secretary to the South West Bay Cooperative Society, from 1978 to 1982, then went into private business (in \"retail and fishing\") until 1998."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served in office in the Malampa Province assembly from 1992 to 1996, then was elected Member of the national Parliament for Malekula in the December 1998 general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malampa Province"
+                },
+                {
+                  "text": "Member of the national Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Vanuatu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malekula"
+                },
+                {
+                  "text": "December 1998 general election",
+                  "type": "internal",
+                  "page": "1998 Vanuatuan general election"
+                }
+              ]
+            },
+            {
+              "text": "He is currently a member of the Melanesian Progressive Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Melanesian Progressive Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Initially a backbencher, he was appointed Minister for Cooperatives and Ni-Vanuatu Business Development (i.e., indigenous business development) in Prime Minister Sato Kilman's Cabinet on February 18, 2010.",
+              "links": [
+                {
+                  "text": "backbencher",
+                  "type": "internal",
+                  "page": "backbencher"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Vanuatu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sato Kilman"
+                },
+                {
+                  "text": "Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Vanuatu",
+                  "anchor": "Kilman Cabinet .282010-2011.29"
+                }
+              ]
+            },
+            {
+              "text": "Kilman was attempting to consolidate his government's majority prior to an expected vote on a motion of confidence in Parliament."
+            },
+            {
+              "text": "He lost office on April 24 when the Kilman government was ousted in a motion of no confidence, regained it on May 13 when the Court of Appeal declared the election of the new government unconstitutional, and lost it again on May 17 when Kilman reshuffled his government and replaced him with Don Ken.",
+              "links": [
+                {
+                  "text": "motion of no confidence",
+                  "type": "internal",
+                  "page": "motion of no confidence"
+                },
+                {
+                  "type": "internal",
+                  "page": "Don Ken"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kilman's government fell on 21 March 2013 when it lost the confidence of Parliament, and new Prime Minister Moana Carcasses Kalosil appointed Sae to the position of Minister for Infrastructure and Public Utilities two days later.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moana Carcasses Kalosil"
+                }
+              ]
+            },
+            {
+              "text": "He crossed the floor on 15 May 2014 to help bring down the Carcasses government."
+            },
+            {
+              "text": "New Prime Minister Joe Natuman maintained Saimon at his post as Minister for Infrastructure.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joe Natuman"
+                }
+              ]
+            },
+            {
+              "text": "He lost office on 11 June 2015 when the Natuman government was ousted in a motion of no confidence.",
+              "links": [
+                {
+                  "text": "motion of no confidence",
+                  "type": "internal",
+                  "page": "motion of no confidence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 11 February 2016 he was elected as Speaker of the Parliament of Vanuatu."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "author": "Rita Narayan",
+          "url": "http://www.loopvanuatu.com/content/esmon-saimon-new-speaker-vanuatu-parliament",
+          "title": "Esmon Saimon is new Speaker of Vanuatu parliament",
+          "publisher": "Loop Vanuatu",
+          "date": "11 February 2016",
+          "accessdate": "10 December 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Baldwin Lonsdale",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Vanuatu\nActing",
+          "years": "2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Tallis Obed Moses",
+          "template": "s-aft"
+        },
+        {
+          "template": "vanuatupres"
+        }
+      ]
+    }
+  ]
+}
