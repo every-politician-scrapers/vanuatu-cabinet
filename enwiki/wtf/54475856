@@ -42,7 +42,7 @@
       ],
       "templates": [
         {
-          "description": "President of Vanuatu (2017-present)",
+          "description": "President of Vanuatu (2017-2022)",
           "template": "short description"
         },
         {
@@ -90,7 +90,7 @@
             "text": "6 July 2017"
           },
           "predecessor": {
-            "text": "Esmon Saimon (Acting)",
+            "text": "Esmon Saimon (acting)",
             "links": [
               {
                 "type": "internal",

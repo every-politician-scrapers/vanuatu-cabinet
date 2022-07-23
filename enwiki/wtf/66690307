@@ -34,19 +34,7 @@
               }
             }
           ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Vanuatuan politician",
-          "template": "short description"
-        }
-      ]
-    },
-    {
-      "title": "Biography",
-      "depth": 0,
-      "paragraphs": [
+        },
         {
           "sentences": [
             {
@@ -135,6 +123,12 @@
               "text": "In November 2020, Simeon resigned his position in the RMC to sit among the opposition benches."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Vanuatuan politician",
+          "template": "short description"
         }
       ],
       "references": [
