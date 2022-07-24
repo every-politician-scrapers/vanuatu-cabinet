@@ -81,11 +81,15 @@
             ]
           },
           "president": {
-            "text": "Tallis Obed Moses",
+            "text": "Tallis Obed Moses Nikenike Vurobaravu",
             "links": [
               {
                 "type": "internal",
                 "page": "Tallis Obed Moses"
+              },
+              {
+                "type": "internal",
+                "page": "Nikenike Vurobaravu"
               }
             ]
           },

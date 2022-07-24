@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Tallis Obed Moses (born 24 October 1954) is a Vanuatuan politician and pastor who has been the president of Vanuatu since 6 July 2017.",
+              "text": "Tallis Obed Moses (born 24 October 1954) is a Vanuatuan politician and pastor who served as the president of Vanuatu from 6 July 2017 to 6 July 2022.",
               "links": [
                 {
                   "text": "Vanuatuan",
@@ -89,12 +89,24 @@
           "term_start": {
             "text": "6 July 2017"
           },
+          "term_end": {
+            "text": "6 July 2022"
+          },
           "predecessor": {
             "text": "Esmon Saimon (acting)",
             "links": [
               {
                 "type": "internal",
                 "page": "Esmon Saimon"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Seoule Simeon (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seoule Simeon"
               }
             ]
           },
@@ -184,7 +196,13 @@
         {
           "sentences": [
             {
-              "text": "Moses was originally from Port Vato, West Ambrym."
+              "text": "Moses was originally from Port Vato, West Ambrym.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Port Vato"
+                }
+              ]
             },
             {
               "text": "He attended Primary School from 1964 to 1967."
@@ -292,6 +310,9 @@
           "publisher": "Pacific Islands Report",
           "date": "6 July 2017",
           "author": "Logo, Goodwin",
+          "archive-url": "http://web.archive.org/web/20170707052630/http://www.pireport.org/articles/2017/07/06/obed-moses-tallis-vanuatus-new-president",
+          "archive-date": "2017-06-07",
+          "url-status": "dead",
           "template": "citation",
           "type": "web"
         },
@@ -324,11 +345,12 @@
         },
         {
           "title": "President of Vanuatu",
-          "years": "2017–present",
+          "years": "2017–2022",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Seoule Simeon Acting",
+          "template": "s-after"
         },
         {
           "template": "vanuatupres"
