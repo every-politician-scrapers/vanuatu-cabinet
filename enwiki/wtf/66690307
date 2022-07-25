@@ -2,13 +2,14 @@
   "title": "Seule Simeon",
   "pageID": 66690307,
   "categories": [
+    "1970 births",
+    "Living people",
     "Education ministers",
     "Vanuatuan politicians",
     "Speakers of the Parliament of Vanuatu",
     "Reunification Movement for Change politicians",
     "Union of Moderate Parties politicians",
-    "Living people",
-    "1970 births"
+    "place of birth missing"
   ],
   "sections": [
     {
@@ -177,6 +178,9 @@
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "presidents of vanuatu"
         },
         {
           "template": "vanuatu-politician-stub"
