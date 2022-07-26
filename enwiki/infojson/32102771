@@ -1,0 +1,112 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Cooperatives and Ni-Vanuatu Business Development"
+    },
+    "P580": "2011-02-18",
+    "P1365": {
+      "links": [
+        "Ralph Regenvanu"
+      ],
+      "stated_as": "Ralph Regenvanu"
+    },
+    "P582": "2011-04-24",
+    "P1366": {
+      "links": [
+        "Paul Telukluk"
+      ],
+      "stated_as": "Paul Telukluk"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Cooperatives and Ni-Vanuatu Business Development"
+    },
+    "P580": "2011-05-13",
+    "P1365": {
+      "links": [
+        "Paul Telukluk"
+      ],
+      "stated_as": "Paul Telukluk"
+    },
+    "P582": "2011-05-17",
+    "P1366": {
+      "links": [
+        "Don Ken"
+      ],
+      "stated_as": "Don Ken"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Infrastructure and Public Utilities"
+    },
+    "P580": "2013-03-23",
+    "P1365": {
+      "links": [
+        "Tony Nari"
+      ],
+      "stated_as": "Tony Nari"
+    },
+    "P582": "2015-06-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Tony Nari"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the Parliament of Vanuatu"
+      ],
+      "stated_as": "Speaker of the Parliament"
+    },
+    "P580": "2016-02-11",
+    "P1365": {
+      "links": [
+        "Marcellino Pipite"
+      ],
+      "stated_as": "Marcellino Pipite"
+    },
+    "P582": "2019-09-06",
+    "P1366": {
+      "links": [
+        "Seoule Simeon"
+      ],
+      "stated_as": "Seoule Simeon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Vanuatu"
+      ],
+      "stated_as": "Acting President of Vanuatu"
+    },
+    "P580": "2017-06-17",
+    "P1365": {
+      "links": [
+        "Baldwin Lonsdale"
+      ],
+      "stated_as": "Baldwin Lonsdale"
+    },
+    "P582": "2017-07-06",
+    "P1366": {
+      "links": [
+        "Tallis Obed Moses"
+      ],
+      "stated_as": "Tallis Obed Moses"
+    }
+  }
+]
