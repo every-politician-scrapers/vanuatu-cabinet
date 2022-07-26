@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2013-03-23",
+    "P1365": {
+      "links": [
+        "Steven Kalsakau"
+      ],
+      "stated_as": "Steven Kalsakau"
+    },
+    "P582": "2015-06-11",
+    "P1366": {
+      "links": [
+        "Alfred Carlot"
+      ],
+      "stated_as": "Alfred Carlot"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Vanuatu"
+      ],
+      "stated_as": "Prime Minister of Vanuatu"
+    },
+    "P580": "2020-04-20",
+    "P1365": {
+      "links": [
+        "Charlot Salwai"
+      ],
+      "stated_as": "Charlot Salwai"
+    }
+  }
+]
