@@ -130,6 +130,12 @@
         {
           "description": "Vanuatuan politician",
           "template": "short description"
+        },
+        {
+          "list": [
+            "Esmon Saimon"
+          ],
+          "template": "distinguish"
         }
       ],
       "references": [

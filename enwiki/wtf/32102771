@@ -3,13 +3,13 @@
   "pageID": 32102771,
   "categories": [
     "1955 births",
-    "Government ministers of Vanuatu",
     "Living people",
-    "Melanesian Progressive Party politicians",
-    "Members of the Parliament of Vanuatu",
     "People from Malampa Province",
     "Presidents of Vanuatu",
-    "Speakers of the Parliament of Vanuatu"
+    "Government ministers of Vanuatu",
+    "Members of the Parliament of Vanuatu",
+    "Speakers of the Parliament of Vanuatu",
+    "Melanesian Progressive Party politicians"
   ],
   "sections": [
     {
@@ -56,6 +56,12 @@
         }
       ],
       "templates": [
+        {
+          "list": [
+            "Seule Simeon"
+          ],
+          "template": "distinguish"
+        },
         {
           "df": "y",
           "year": "1955",
@@ -541,7 +547,7 @@
           "template": "s-aft"
         },
         {
-          "template": "vanuatupres"
+          "template": "presidents of vanuatu"
         }
       ]
     }
