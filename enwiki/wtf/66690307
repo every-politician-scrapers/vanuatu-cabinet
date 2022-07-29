@@ -4,6 +4,7 @@
   "categories": [
     "1970 births",
     "Living people",
+    "Presidents of Vanuatu",
     "Education ministers",
     "Vanuatuan politicians",
     "Speakers of the Parliament of Vanuatu",
@@ -184,6 +185,28 @@
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Tallis Obed Moses",
+          "years": "2017–2022",
+          "template": "s-bef"
+        },
+        {
+          "after": "Nikenike Vurobaravu",
+          "list": [
+            "Incumbent"
+          ],
+          "template": "s-after"
+        },
+        {
+          "title": "President of Vanuatu Acting",
+          "template": "s-ttl"
         },
         {
           "template": "presidents of vanuatu"

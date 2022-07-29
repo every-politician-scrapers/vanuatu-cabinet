@@ -1,0 +1,473 @@
+{
+  "title": "Nikenike Vurobaravu",
+  "pageID": 71371745,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Presidents of Vanuatu",
+    "High Commissioners of Vanuatu to Fiji",
+    "Vanuatuan diplomats",
+    "Vanua'aku Pati politicians",
+    "University of the South Pacific alumni",
+    "Alumni of the University of Westminster",
+    "Place of birth missing (living people)",
+    "Date of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nikenike Vurobaravu (born 1964) is a Vanuatuan diplomat and politician who has served as President of Vanuatu since 23 July 2022.",
+              "links": [
+                {
+                  "text": "Vanuatuan",
+                  "type": "internal",
+                  "page": "Vanuatu"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Vanuatu"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nikenike Vurobaravu"
+                ]
+              }
+            },
+            {
+              "text": "Previously having been employed in numerous diplomatic and government positions, including as the first resident High Commissioner to Fiji, he was elected as president during the eighth round of the 2022 Vanuatuan presidential election in July 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fiji"
+                },
+                {
+                  "text": "2022 Vanuatuan presidential election",
+                  "type": "internal",
+                  "page": "2022 Vanuatuan presidential election"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Vanua'aku Pati (VP) political party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vanua'aku Pati"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "President of Vanuatu since 2022",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": 1964
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nikenike Vurobaravu"
+          },
+          "office": {
+            "text": "10th President of Vanuatu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Vanuatu"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 July 2022"
+          },
+          "predecessor": {
+            "text": "Seoule Simeon (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seoule Simeon"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Bob Loughman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bob Loughman"
+              }
+            ]
+          },
+          "office2": {
+            "text": "High Commissioner of Vanuatu to Fiji",
+            "links": [
+              {
+                "type": "internal",
+                "page": "High Commissioner"
+              },
+              {
+                "type": "internal",
+                "page": "Vanuatu"
+              },
+              {
+                "type": "internal",
+                "page": "Fiji"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "12 October 2017"
+          },
+          "term_end2": {
+            "text": "23 July 2022"
+          },
+          "term_start3": {
+            "text": "2014",
+            "number": 2014
+          },
+          "term_end3": {
+            "text": "2015",
+            "number": 2015
+          },
+          "birth_date": {
+            "text": "1964",
+            "number": 1964
+          },
+          "birth_place": {
+            "text": "New Hebrides (now Vanuatu)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Hebrides"
+              },
+              {
+                "type": "internal",
+                "page": "Vanuatu"
+              }
+            ]
+          },
+          "honorific_prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Rima Vurobaravu"
+          },
+          "party": {
+            "text": "Vanua'aku Pati",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vanua'aku Pati"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the South Pacific (B.A.) University of Westminster (M.A.)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the South Pacific"
+              },
+              {
+                "type": "internal",
+                "page": "University of Westminster"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Vanuatu elects new president after eight rounds of voting",
+          "work": "Asia Pacific Report",
+          "url": "https://asiapacificreport.nz/2022/07/23/vanuatu-elects-new-president-after-eight-rounds-of-voting/",
+          "access-date": "2022-07-23",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "After eight rounds of voting, Vanuatu elects new president",
+          "url": "https://www.rnz.co.nz/international/pacific-news/471500/after-eight-rounds-of-voting-vanuatu-elects-new-president",
+          "work": "Radio New Zealand",
+          "date": "2022-07-23",
+          "access-date": "2022-07-23",
+          "archive-url": "http://web.archive.org/web/20220724010126/https://www.rnz.co.nz/international/pacific-news/471500/after-eight-rounds-of-voting-vanuatu-elects-new-president",
+          "archive-date": "2022-07-23",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Two former Vanuatu politicians made diplomats",
+          "url": "https://www.rnz.co.nz/international/pacific-news/235317/two-former-vanuatu-politicians-made-diplomats",
+          "work": "Radio New Zealand",
+          "date": "2014-02-05",
+          "access-date": "2022-07-23",
+          "archive-url": "http://web.archive.org/web/20220724010453/https://www.rnz.co.nz/international/pacific-news/235317/two-former-vanuatu-politicians-made-diplomats",
+          "archive-date": "2022-07-24",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first": "Jane",
+          "last": "Joshua",
+          "title": "Ambassador to China recalled",
+          "url": "https://www.dailypost.vu/news/ambassador-to-china-recalled/article_73e8cfb7-bc94-5c77-9599-d12f5a230cc8.html",
+          "work": "Vanuatu Daily Post",
+          "date": "2015-07-04",
+          "access-date": "2022-07-23",
+          "archive-url": "http://web.archive.org/web/20180606202200/http://dailypost.vu/news/ambassador-to-china-recalled/article_73e8cfb7-bc94-5c77-9599-d12f5a230cc8.html",
+          "archive-date": "2018-06-06",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vurobaravu is married to his wife, Rima Vurobaravu."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He received a Bachelor of Arts degree from the University of the South Pacific (USP) in Fiji in 1977.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of the South Pacific"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fiji"
+                }
+              ]
+            },
+            {
+              "text": "Vurobaravu also obtained his Master of Arts degree in diplomatic studies from the University of Westminster in the United Kingdom in 1993.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Master of Arts"
+                },
+                {
+                  "text": "diplomatic studies",
+                  "type": "internal",
+                  "page": "diplomacy"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Westminster"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "He specialized in development cooperation, foreign policy analysis, and the management of diplomatic missions while studying at the University of Westminister."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Vurobaravu served as the coordinator of the Vanuatu Comprehensive Reform Program for the Asian Development Bank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Asian Development Bank"
+                }
+              ]
+            },
+            {
+              "text": "He also served as a political adviser in the Prime Minister’s Office from 2008 to 2010.",
+              "links": [
+                {
+                  "text": "political adviser",
+                  "type": "internal",
+                  "page": "political adviser"
+                },
+                {
+                  "text": "Prime Minister’s Office",
+                  "type": "internal",
+                  "page": "Prime Minister of Vanuatu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2014, Vurobaravu was appointed as High Commissioner of Vanuatu to Fiji, becoming the country's first-ever resident High Commissioner to reside in Suva in history.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "High Commissioner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fiji"
+                },
+                {
+                  "type": "internal",
+                  "page": "Suva"
+                }
+              ]
+            },
+            {
+              "text": "However, he was recalled to Vanuatu by the then-government in 2015."
+            },
+            {
+              "text": "On 12 October 2017, Vanuatu President Tallis Moses Obed appointed Vurobaravu to a second term as High Commissioner to Fiji."
+            },
+            {
+              "text": "Vurobaravu presented his credentials to Fijian President Jioji Konrote on 14 November 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jioji Konrote"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "New High Commissioner of Vanuatu presented his credentials to Fiji's President",
+          "url": "https://www.vilatimes.com/2017/11/17/new-high-commissioner-of-vanuatu-presented-his-credentials-to-fijis-president/",
+          "work": "Vila Times",
+          "date": "2017-11-17",
+          "access-date": "2022-07-23",
+          "archive-url": "http://web.archive.org/web/20210730163709/https://www.vilatimes.com/2017/11/17/new-high-commissioner-of-vanuatu-presented-his-credentials-to-fijis-president/",
+          "archive-date": "2021-07-03",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Alumnus Gives Back to Home Country",
+          "url": "https://www.usp.ac.fj/alumni/wp-content/uploads/sites/4/2021/08/USPAlumniNewsletter_201810_en.pdf",
+          "work": "University of the South Pacific",
+          "date": "2018-10-10",
+          "access-date": "2022-07-23",
+          "archive-url": "http://web.archive.org/web/20220723201549/https://www.usp.ac.fj/alumni/wp-content/uploads/sites/4/2021/08/USPAlumniNewsletter_201810_en.pdf",
+          "archive-date": "2022-07-23",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Fijian President Receives New Diplomatic Envoys",
+          "url": "https://www.fiji.gov.fj/Media-Centre/News/FIJIAN-PRESIDENT-RECEIVES-NEW-DIPLOMATIC-ENVOYS",
+          "work": "Government of Fiji",
+          "date": "2014-03-04",
+          "access-date": "2022-07-23",
+          "archive-url": "http://web.archive.org/web/20220723195326/https://www.fiji.gov.fj/Media-Centre/News/FIJIAN-PRESIDENT-RECEIVES-NEW-DIPLOMATIC-ENVOYS",
+          "archive-date": "2022-07-23",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first": "Glenda",
+          "last": "Willie",
+          "title": "Head of State commissions Vurobaravu as High Commissioner of Vanuatu",
+          "url": "https://www.dailypost.vu/news/head-of-state-commissions-vurobaravu-as-high-commissioner-of-vanuatu/article_0eefda8b-8cf5-5bbd-bba0-477378a3bcfe.html",
+          "work": "Vanuatu Daily Post",
+          "date": "2017-10-14",
+          "access-date": "2022-07-23",
+          "archive-url": "http://web.archive.org/web/20220702083528/https://www.dailypost.vu/news/head-of-state-commissions-vurobaravu-as-high-commissioner-of-vanuatu/article_0eefda8b-8cf5-5bbd-bba0-477378a3bcfe.html",
+          "archive-date": "2022-07-02",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "High Commissioner, H.E. Mr. Vurobaravu, Presents His Credentials To The President of Fiji, H.E. Mr. Konrote",
+          "url": "https://vanuatuhighcomm-fj.gov.vu/index.php/about-us/media-1/20-high-commissioner-h-e-mr-vurobaravu-presents-his-credential-to-the-president-of-fiji-h-e-mr-konrote",
+          "work": "Vanuatu High Commission to Fiji",
+          "date": "2017-11-14",
+          "access-date": "2022-07-23",
+          "archive-url": "http://web.archive.org/web/20220630205930/https://vanuatuhighcomm-fj.gov.vu/index.php/about-us/media-1/20-high-commissioner-h-e-mr-vurobaravu-presents-his-credential-to-the-president-of-fiji-h-e-mr-konrote",
+          "archive-date": "2022-06-30",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Seoule Simeon Acting",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Vanuatu",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "presidents of vanuatu"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "vanuatu-bio-stub"
+        }
+      ]
+    }
+  ]
+}
