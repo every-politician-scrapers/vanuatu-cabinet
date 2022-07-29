@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "High Commissioner",
+        "Vanuatu",
+        "Fiji"
+      ],
+      "stated_as": "High Commissioner of Vanuatu to Fiji"
+    },
+    "P580": "2014",
+    "P582": "2015"
+  },
+  {
+    "office": {
+      "links": [
+        "High Commissioner",
+        "Vanuatu",
+        "Fiji"
+      ],
+      "stated_as": "High Commissioner of Vanuatu to Fiji"
+    },
+    "P580": "2017-10-12",
+    "P582": "2022-07-23"
+  },
+  {
+    "office": {
+      "links": [
+        "President of Vanuatu"
+      ],
+      "stated_as": "10th President of Vanuatu"
+    },
+    "P580": "2022-07-23",
+    "P1365": {
+      "links": [
+        "Seoule Simeon"
+      ],
+      "stated_as": "Seoule Simeon (acting)"
+    }
+  }
+]
